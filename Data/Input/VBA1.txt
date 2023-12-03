@@ -1,0 +1,8 @@
+Sub Main()
+    On Error Resume Next
+
+    Dim ChangeSheetName As String
+    ChangeSheetName = Format(Now, "yy³âMM¿ù")
+    ActiveSheet.Name = ChangeSheetName
+
+End Sub
