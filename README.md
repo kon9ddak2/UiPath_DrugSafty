@@ -20,15 +20,15 @@
 - 보고대상자에게 OutPut폴더의 결과 파일 첨부하여 메일발송
 
 [Config파일]
-strURL : 의약품 안전나라>고시/공고/알림> 행정처분 조회 페이지
-strResultFolderPath : 결과파일저장경로
-strTempPath : 양식파일폴더경로
-strTempFile : 양식파일명
-strAccount : 아웃룩 계정
-strMailTo : 받는사람
-strMailSubject : 메일 제목
-strMailBody : 당월이슈사항이 1건 이상일 때 메일내용 (html태그 포함)
-strMailBodyZero : 당월이슈사항이 0건일 때 메일내용
+- strURL : 의약품 안전나라>고시/공고/알림> 행정처분 조회 페이지
+- strResultFolderPath : 결과파일저장경로
+- strTempPath : 양식파일폴더경로
+- strTempFile : 양식파일명
+- strAccount : 아웃룩 계정
+- strMailTo : 받는사람
+- strMailSubject : 메일 제목
+- strMailBody : 당월이슈사항이 1건 이상일 때 메일내용 (html태그 포함)
+- strMailBodyZero : 당월이슈사항이 0건일 때 메일내용
 
 * 작업파일폴더: MyWork
 
